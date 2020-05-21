@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5ec6af41f9c941a17a1f3afb"
+  },
+  "title": "Combo 3 áo thun trơn nam",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/e4/a0/e7/6433bbcc6d5c44053247f159e8850de5.jpg",
+  "categoryId": 1,
+  "price": 44.3
+},{
+  "_id": {
+    "$oid": "5ec6b0fbf9c941a17a1f3afc"
+  },
+  "title": "Mũ lưỡi trai thời trang phong cách Hàn Quốc",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/50/29/4a/b5f94e06f76a4bf4d34a51756286a589.jpg",
+  "categoryId": 2,
+  "price": 14.2
+},{
+  "_id": {
+    "$oid": "5ec6b167f9c941a17a1f3afd"
+  },
+  "title": "Nón kết thời trang nam MT2",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/f0/ce/b4/c35e1da788e278ad3a7ef77a34901a80.jpg",
+  "categoryId": 2,
+  "price": 24.1
+},{
+  "_id": {
+    "$oid": "5ec6b1a9f9c941a17a1f3afe"
+  },
+  "title": "Áo sơ mi đũi nam cao cấp",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/d3/84/e9/4d24183de22610af15f80f04a293687c.jpg",
+  "categoryId": 3,
+  "price": 64.8
+},{
+  "_id": {
+    "$oid": "5ec6b1e1f9c941a17a1f3aff"
+  },
+  "title": "Áo Khoác Nam 2 Lớp Zakado",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/89/54/be/dac6cc6c5cc64c1e7806034d46ce9c60.jpg",
+  "categoryId": 2,
+  "price": 104.6
+},{
+  "_id": {
+    "$oid": "5ec6b22df9c941a17a1f3b00"
+  },
+  "title": "Áo khoác dù nam có nón AK0037",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/70/ed/a9/d7c4555542d66e226bc1f15655e35c79.jpg",
+  "categoryId": 2,
+  "price": 54
+},{
+  "_id": {
+    "$oid": "5ec6b4cef9c941a17a1f3b01"
+  },
+  "title": "Giày sneaker nam cao cấp",
+  "image": "https://salt.tikicdn.com/cache/w780/ts/product/b2/88/4f/646c84f72e076967976f89035a706715.jpg",
+  "categoryId": 4,
+  "price": 10
+}]
